@@ -7,8 +7,9 @@
 // @match        https://www.torn.com/bazaar.php*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=torn.com
 // @grant        none
-
-// @downloadURL none
+// @license      MIT
+// @downloadURL  https://raw.githubusercontent.com/AstroTheNomer/torn-userscripts/main/bazaar-sniper.user.js
+// @updateURL    https://raw.githubusercontent.com/AstroTheNomer/torn-userscripts/main/bazaar-sniper.user.js
 // ==/UserScript==
 
 /*
